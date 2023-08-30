@@ -1,1 +1,1 @@
-# Inidan_Cencus_and_Healthcare_Analysis
+# Indian_Cencus_and_Healthcare_Analysis
